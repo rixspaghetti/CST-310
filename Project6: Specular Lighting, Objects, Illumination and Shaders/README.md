@@ -1,4 +1,4 @@
-# 6Cubes OpenGL Project
+#  Project6: Specular Lighting, Objects, Illumination and Shaders
 
 - **Course Name**: Computer Graphics - CTS310
 - **Instructor**: Dr. Ricardo Citro
